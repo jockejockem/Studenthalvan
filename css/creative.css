@@ -437,3 +437,10 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+.img-karta{
+  width: 50%;
+  height: 60%;
+  padding-top: -70px;
+  display: block;
+    margin: 0 auto;
+}
